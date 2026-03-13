@@ -191,11 +191,11 @@ _Ao longo do semestre, a equipe pretende utilizar o Visual Studio Code como prin
 
 ## Referências consultadas
 
-- [Nome da fonte 1](https://aws.amazon.com/pt/what-is/ide/)
-- [Nome da fonte 2](https://www.postgresql.org/about/)
-- [Nome da fonte 3](https://code.visualstudio.com/)
-- [Nome da fonte 4](https://learning.postman.com/docs/getting-started/introduction/)
-- [Nome da fonte 5](https://targettrend.com/pt/database-software/)
+- [Oque é API Amazon](https://aws.amazon.com/pt/what-is/ide/)
+- [Sobre o Postgree](https://www.postgresql.org/about/)
+- [Informações sobre o Visual Studio Code](https://code.visualstudio.com/)
+- [Postman](https://learning.postman.com/docs/getting-started/introduction/)
+- [Softwares de Banco de Dados](https://targettrend.com/pt/database-software/)
 
 
 
